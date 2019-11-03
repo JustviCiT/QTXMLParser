@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <stations>
+        <radio>
+            <name>RADIO DEEJAY</name>
+            <fav>1</fav>
+            <id>1</id>
+        </radio>
+        <radio>
+            <name>VIRGIN</name>
+            <fav>0</fav>
+            <id>2</id>
+        </radio>
+        <radio>
+            <name>RADIO BRUNO</name>
+            <fav>1</fav>
+            <id>3</id>
+        </radio>
+        <radio>
+            <name>RADIO ITALIA</name>
+            <fav>0</fav>
+            <id>4</id>
+        </radio>
+    </stations>
+    <contacts>
+        <contact>
+            <id>1</id>
+            <name>Joe</name>
+            <phone_home>2542525252</phone_home>
+            <phone_work></phone_work>
+            <fav>0</fav>
+            <recent>1</recent>
+        </contact>
+        <contact>
+            <id>2</id>
+            <name>Joe 2</name>
+            <phone_home>25425rfrr5252</phone_home>
+            <phone_work>61616161</phone_work>
+            <fav>0</fav>
+            <recent>0</recent>
+        </contact>
+        <contact>
+            <id>3</id>
+            <name>Joe</name>
+            <phone_home>2542525252</phone_home>
+            <phone_work></phone_work>
+            <fav>1</fav>
+            <recent>1</recent>
+        </contact>
+    </contacts>
+    <songs>
+        <song>
+            <title>Jumping Jack</title>
+            <album>The Rolling Stones</album>
+            <id>1</id>
+            <fav>0</fav>
+            <recent>0</recent>
+            <artist>The Rolling Stones</album>
+        </song>
+        <song>
+            <title>One</title>
+            <album>One</album>
+            <id>2</id>
+            <fav>1</fav>
+            <recent>1</recent>
+            <artist>The Ones</album>
+        </song>
+    </songs>
+</root>
