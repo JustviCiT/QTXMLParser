@@ -11,7 +11,9 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
     QString mySharedMem = "SharedMem";
-    QFile* myFile = new QFile("example-xml.xml");
+    //QFile* myFile = new QFile("example-xml.xml");
+
+    QFile* myFile = new QFile("FMRadioList.xml");
 
     if(!myFile->open(QIODevice::ReadWrite | QFile::Text)){
         qDebug()<<"File Openning Error"<< myFile->errorString();
@@ -23,6 +25,8 @@ int main(int argc, char *argv[])
 
     ipc->parseXML();
     ds->print();
+    ds->m_Radios.value(1)->setFav(true);
+    ipc->writeXML();
 
     myFile->close();
 

@@ -32,7 +32,8 @@ SOURCES += \
         xmlmanager.cpp
 
 ipcFile.path = $$OUT_PWD
-ipcFile.files = $$PWD/example-xml.xml
+ipcFile.files = $$PWD/example-xml.xml \
+                $$PWD/FMRadioList.xml
 INSTALLS += ipcFile
 
 # Default rules for deployment.

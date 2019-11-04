@@ -19,6 +19,8 @@ public:
     void addSong(Song *);
     void addRadio(Radio *);
     void addContact(Contact *);
+    void clean();
+
 
     QMap<int, Song*> m_Songs;
     QMap<int, Radio*> m_Radios;

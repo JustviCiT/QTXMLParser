@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<contacts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="list">
+	<items>
+		<contact>
+			<name type="string">*RDS</name>
+			<icon type="int">1</icon>
+			<index type="int">1</index>
+		</contact>
+		<contact>
+			<name type="string">BRUNO</name>
+			<icon type="int">0</icon>
+			<index type="int">2</index>
+		</contact>
+		<contact>
+			<name type="string">DEEJAY</name>
+			<icon type="int">1</icon>
+			<index type="int">3</index>
+		</contact>
+		<contact>
+			<name type="string">*Radio 1</name>
+			<icon type="int">0</icon>
+			<index type="int">4</index>
+		</contact>
+		<contact>
+			<name type="string">*Radio 2</name>
+			<icon type="int">0</icon>
+			<index type="int">5</index>
+		</contact>
+		<contact>
+			<name type="string">*Radio 3</name>
+			<icon type="int">1</icon>
+			<index type="int">6</index>
+		</contact>
+		<contact>
+			<name type="string">M2O</name>
+			<icon type="int">0</icon>
+			<index type="int">7</index>
+		</contact>
+		<contact>
+			<name type="string">RTL 102.5</name>
+			<icon type="int">1</icon>
+			<index type="int">8</index>
+		</contact>
+		<contact>
+			<name type="string">VIRGIN</name>
+			<icon type="int">0</icon>
+			<index type="int">9</index>
+		</contact>
+		<contact>
+			<name type="string">ANNI 60</name>
+			<icon type="int">0</icon>
+			<index type="int">10</index>
+		</contact>
+		<contact>
+			<name type="string">CANZONE E SORRISI</name>
+			<icon type="int">0</icon>
+			<index type="int">11</index>
+		</contact>
+		<contact>
+			<name type="string">PANBURR</name>
+			<icon type="int">0</icon>
+			<index type="int">12</index>
+		</contact>
+		<contact>
+			<name type="string">M*R*CITY</name>
+			<icon type="int">0</icon>
+			<index type="int">13</index>
+		</contact>
+		<contact>
+			<name type="string">RADIO 24</name>
+			<icon type="int">0</icon>
+			<index type="int">14</index>
+		</contact>
+		<contact>
+			<name type="string">RADIO SPORTIVA</name>
+			<icon type="int">0</icon>
+			<index type="int">15</index>
+		</contact>
+		<contact>
+			<name type="string">RMC</name>
+			<icon type="int">0</icon>
+			<index type="int">16</index>
+		</contact>
+		<contact>
+			<name type="string">R101</name>
+			<icon type="int">0</icon>
+			<index type="int">17</index>
+		</contact>
+		<contact>
+			<name type="string">RADIO CAPITAL</name>
+			<icon type="int">0</icon>
+			<index type="int">18</index>
+		</contact>
+		<contact>
+			<name type="string">LATTEMIELE</name>
+			<icon type="int">0</icon>
+			<index type="int">19</index>
+		</contact>
+		<contact>
+			<name type="string">KISS KISS</name>
+			<icon type="int">0</icon>
+			<index type="int">20</index>
+		</contact>
+		<contact>
+			<name type="string">RADIO NUMBER 1</name>
+			<icon type="int">0</icon>
+			<index type="int">21</index>
+		</contact>
+		<contact>
+			<name type="string">RAI RADIO</name>
+			<icon type="int">0</icon>
+			<index type="int">22</index>
+		</contact>
+		<contact>
+			<name type="string">RADIO FRECCIA</name>
+			<icon type="int">0</icon>
+			<index type="int">23</index>
+		</contact>
+		<contact>
+			<name type="string">RADIO 105</name>
+			<icon type="int">0</icon>
+			<index type="int">24</index>
+		</contact>
+		<contact>
+			<name type="string">RADIO PICO</name>
+			<icon type="int">0</icon>
+			<index type="int">25</index>
+		</contact>
+		<contact>
+			<name type="string">RAI GR PARLAMENTO</name>
+			<icon type="int">0</icon>
+			<index type="int">26</index>
+		</contact>
+		<contact>
+			<name type="string">RADIO INTERNATIONAL</name>
+			<icon type="int">0</icon>
+			<index type="int">27</index>
+		</contact>
+		<contact>
+			<name type="string">RADIO MODENA 90</name>
+			<icon type="int">0</icon>
+			<index type="int">28</index>
+		</contact>
+		<contact>
+			<name type="string">RADIO MARIA</name>
+			<icon type="int">0</icon>
+			<index type="int">29</index>
+		</contact>
+		<contact>
+			<name type="string">RADIO STELLA</name>
+			<icon type="int">0</icon>
+			<index type="int">30</index>
+		</contact>
+		<contact>
+			<name type="string">ISORADIO</name>
+			<icon type="int">0</icon>
+			<index type="int">31</index>
+		</contact>
+		<contact>
+			<name type="string">SORRRISO</name>
+			<icon type="int">0</icon>
+			<index type="int">32</index>
+		</contact>
+		<contact>
+			<name type="string">STUDIO +</name>
+			<icon type="int">0</icon>
+			<index type="int">33</index>
+		</contact>
+		<contact>
+			<name type="string">RADIOVIVAFM</name>
+			<icon type="int">0</icon>
+			<index type="int">34</index>
+		</contact>
+	</items>
+</contacts>

@@ -20,6 +20,17 @@ void DataSource::addContact(Contact *mycontact){
     key_contacts ++;
 }
 
+void DataSource::clean()
+{
+    m_Songs.clear();
+    m_Radios.clear();
+    m_Contacts.clear();
+
+    key_songs = 0;
+    key_radios = 0;
+    key_contacts = 0;
+}
+
 void DataSource::print(){
     QMapIterator<int, Radio* > i(m_Radios);
     QMapIterator<int, Song* > j(m_Songs);

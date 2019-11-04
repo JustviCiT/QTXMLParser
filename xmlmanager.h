@@ -9,13 +9,16 @@
 #include <QDebug>
 #include <datasource.h>
 
-#define XMLNAME_ROOT    "root"
+//#define XMLNAME_ROOT    "root"
 #define XMLNAME_ROOT_SONGS  "songs"
 #define XMLNAME_ROOT_SONG   "song"
-#define XMLNAME_ROOT_RADIOS  "stations"
-#define XMLNAME_ROOT_RADIO   "radio"
+//#define XMLNAME_ROOT_RADIOS  "stations"
+//#define XMLNAME_ROOT_RADIO   "radio"
 #define XMLNAME_ROOT_CONTACTS  "contacts"
 #define XMLNAME_ROOT_CONTACT   "contact"
+#define XMLNAME_ROOT "contacts"
+#define XMLNAME_ROOT_RADIOS  "items"
+#define XMLNAME_ROOT_RADIO   "contact"
 
 
 class XMLManager : public QObject
@@ -26,6 +29,7 @@ public:
     explicit XMLManager(QIODevice*, DataSource *, QObject *parent = nullptr);
 
     bool parseXML();
+    void writeXML();
 
 private:
     void readFirstLevel();
@@ -36,7 +40,7 @@ private:
     void readContacts();
     void readContact();
 
-    void changeFavRadio(int ,bool newfav);
+//    void changeFavRadio(int ,bool newfav);
 
 private:
     QIODevice* device;
